@@ -59,7 +59,7 @@ Audible has strong demand during holiday & seasonal sales.
 
 Clone this repository:
 
-git clone https://github.com/your-username/Audible-Case-Study-Excel.git
+git clone https://github.com/itsmittal02/Audible-Case-Study-Excel.git
 
 
 Open the Excel files in the /data and /analysis folders.
